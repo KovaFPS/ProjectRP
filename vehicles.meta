@@ -4913,7 +4913,7 @@
 			<minSeatHeight value="1.011" />
 			<identicalModelSpawnDistance value="20" />
 			<maxNumOfSameColor value="10" />
-			<defaultBodyHealth value="1000.000000" />
+			<defaultBodyHealth value="8000.000000" />
 			<pretendOccupantsScale value="1.000000" />
 			<visibleSpawnDistScale value="1.000000" />
 			<trackerPathWidth value="2.000000" />
